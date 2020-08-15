@@ -13,6 +13,7 @@
 [<img align="left" alt="zander-br | Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-11.png" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -39,8 +40,8 @@
  
 ### Contributions
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YanYuanFE&repo=react-native-signature-canvas)](https://github.com/YanYuanFE/react-native-signature-canvas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zander-br&repo=markdown-course)](https://github.com/zander-br/markdown-course)
+[![React Native Signature Canvas](https://github-readme-stats.vercel.app/api/pin/?username=YanYuanFE&repo=react-native-signature-canvas)](https://github.com/YanYuanFE/react-native-signature-canvas)
+[![Markdown Course](https://github-readme-stats.vercel.app/api/pin/?username=zander-br&repo=markdown-course)](https://github.com/zander-br/markdown-course)
 
 [twitter]: https://twitter.com/zander_br
 [instagram]: https://www.instagram.com/zander.br

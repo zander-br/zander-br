@@ -34,6 +34,12 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="ASP.NET Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][core]
 
+<br />
+ 
+### Contributions
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YanYuanFE&repo=react-native-signature-canvas)](https://github.com/YanYuanFE/react-native-signature-canvas)
+
 [twitter]: https://twitter.com/zander_br
 [instagram]: https://www.instagram.com/zander.br
 [linkedin]: https://www.linkedin.com/in/zander-br

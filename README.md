@@ -28,6 +28,10 @@
 [<img align="left" alt="Jest" width="26px" src="https://github.com/facebook/jest/blob/master/website/static/img/jest.png" />][jest]
 [<img align="left" alt="Next.js" width="26px" src="https://d33wubrfki0l68.cloudfront.net/c9c0cb655eaa23c6b678aadf7698db19acdc32c2/e3003/img/tech/nextjs.svg" />][next]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 [twitter]: https://twitter.com/zander_br
 [instagram]: https://www.instagram.com/zander.br
@@ -44,3 +48,7 @@
 [jest]: https://jestjs.io
 [next]: https://nextjs.org
 [docker]: https://www.docker.com
+[mongo]: https://www.mongodb.com
+[git]: https://git-scm.com
+[github]: https://github.com
+[terminal]: https://ohmyz.sh

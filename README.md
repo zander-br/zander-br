@@ -2,4 +2,5 @@
 
 ## I'm a Husband, Developer and Chef!
 
-- 🌱 I'm currently studying and doing really cool things 🤣
+- 🌱  I'm currently studying and doing really cool things 🤣
+- 👨‍🍳

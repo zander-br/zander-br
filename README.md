@@ -1,4 +1,4 @@
-### Hi there, I'm Anderson Santos 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Anderson Santos!
 
 ## I'm a Husband, Developer and Chef!
 

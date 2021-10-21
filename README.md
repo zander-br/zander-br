@@ -25,7 +25,7 @@
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][gatsby]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphql]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Jest" width="26px" src="https://github.com/facebook/jest/blob/master/website/static/img/jest.png" />][jest]
+[<img align="left" alt="Jest" width="26px" src="https://github.com/facebook/jest/blob/main/website/static/img/jest.png" />][jest]
 [<img align="left" alt="Next.js" width="26px" src="https://d33wubrfki0l68.cloudfront.net/c9c0cb655eaa23c6b678aadf7698db19acdc32c2/e3003/img/tech/nextjs.svg" />][next]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
